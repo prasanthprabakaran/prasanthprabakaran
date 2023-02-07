@@ -1,5 +1,4 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=prasanthprabakaran.prasanthprabakaran)
-<br/>
 
 <h1 align='center'>Hi 👋, I'm Prasanth Prabakaran<h1/>
 <h3 align='center'>A self-taught full stack web developer<h3/> 
