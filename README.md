@@ -2,7 +2,7 @@
 <br/>
 
 <h1 align='center'>Hi 👋, I'm Prasanth Prabakaran<h1/>
-A self-taught full stack web developer. 
+<h3 align='center'>A self-taught full stack web developer<h3/> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&layout=compact&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
 
