@@ -1,4 +1,6 @@
 
+![](https://visitor-badge.glitch.me/badge?page_id=prasanthprabakaran.prasanthprabakaran)
+
 <img src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=synthwave&show_icons=true&count_private=true" alt="Prasanth’ GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&theme=synthwave" alt="Prasanth’ Top Languages Card" />
