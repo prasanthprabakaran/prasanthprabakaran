@@ -10,6 +10,7 @@
   
 - ⚡ Fun fact: Science fiction is enlightening
 
+## &#x1f4c8; GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&layout=compact&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true" alt="Prasanth’ GitHub Stats" /><p/>
