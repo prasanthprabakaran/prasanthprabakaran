@@ -3,7 +3,7 @@
 
 hi, i'm [Prasanth Prabakaran](https://prasanthpraba.tech), a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&layout=compact&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true" alt="Prasanth’ GitHub Stats" /><p/>
 
