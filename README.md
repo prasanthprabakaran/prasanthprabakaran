@@ -5,7 +5,7 @@ hi, i'm [Prasanth Prabakaran](https://prasanthpraba.tech), a passionate self-tau
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs)" alt="Prasanth’ GitHub Stats" /><p/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true)" alt="Prasanth’ GitHub Stats" /><p/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthprabakaran&" alt="Prasanth's streak status" /></p>
 
