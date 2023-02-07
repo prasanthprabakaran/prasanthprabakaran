@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![Prasanth’ GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=synthwave&show_icons=true&count_private=true “Prasanth’ GitHub Stats”)
 
