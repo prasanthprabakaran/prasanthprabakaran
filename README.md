@@ -1,5 +1,8 @@
-
 ![](https://visitor-badge.glitch.me/badge?page_id=prasanthprabakaran.prasanthprabakaran)
+<br/>
+
+hi, i'm [Prasanth Prabakaran](https://prasanthpraba.tech), a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=synthwave&show_icons=true&count_private=true" alt="Prasanth’ GitHub Stats" />
 
