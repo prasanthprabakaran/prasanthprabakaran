@@ -4,9 +4,9 @@
 hi, i'm [Prasanth Prabakaran](https://prasanthpraba.tech), a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=synthwave&show_icons=true&count_private=true" alt="Prasanth’ GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true" alt="Prasanth’ GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&theme=synthwave" alt="Prasanth’ Top Languages Card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&theme=algolia" alt="Prasanth’ Top Languages Card" />
 
 <!--
 **prasanthprabakaran/prasanthprabakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
