@@ -2,7 +2,7 @@
 <br/>
 
 <h1 align='center'>Hi 👋, I'm Prasanth Prabakaran<h1/>
-<p align='center'>A passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build<p/>
+<h3 align='center'>A passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build<h3/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&layout=compact&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
 
