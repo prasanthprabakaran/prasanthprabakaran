@@ -7,6 +7,8 @@ hi, i'm [Prasanth Prabakaran](https://prasanthpraba.tech), a passionate self-tau
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs)" alt="Prasanth’ GitHub Stats" /><p/>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthprabakaran&" alt="Prasanth's streak status" /></p>
+
 
 <!--
 **prasanthprabakaran/prasanthprabakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
