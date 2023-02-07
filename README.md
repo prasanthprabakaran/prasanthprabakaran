@@ -3,6 +3,10 @@
 
 <h1 align='center'>Hi 👋, I'm Prasanth Prabakaran<h1/>
 <h3 align='center'>A self-taught full stack web developer<h3/> 
+<h2><a href="https://prasanthpraba.tech" target="_blank">Portfolio website</a></h2>
+- 🌱 I’m currently learning MERN Stack 
+- 📫 How to reach me: iprasanthpraba@gmail.com
+- ⚡ Fun fact: Science fiction is enlightening
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&layout=compact&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
 
@@ -16,12 +20,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning MERN Stack 
+- 📫 How to reach me: iprasanthpraba@gmail.com
+- ⚡ Fun fact: Science fiction is enlightening
 -->
