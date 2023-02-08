@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=prasanthprabakaran.prasanthprabakaran)
 
-<h1 align='center'>Hi 👋, I'm Prasanth Prabakaran<h1/>
-<h3 align='center'>A self-taught full stack web developer<h3/> 
+Hi 👋, I'm Prasanth Prabakaran,
+a self-taught full stack web developer
 <h2><a href="https://prasanthpraba.tech" target="_blank">Portfolio website</a></h2>
   
 - 🌱 I’m currently learning MERN Stack 
