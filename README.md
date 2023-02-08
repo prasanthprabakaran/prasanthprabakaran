@@ -1,7 +1,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=prasanthprabakaran.prasanthprabakaran)
 
 Hi 👋, I'm Prasanth Prabakaran,
-a self-taught full stack web developer
+a self-taught full stack web developer.
+Completed Zen Class Full Stack Developer Program in GUVI GEEKs Network- IIT Madras
+<a href="https://www.guvi.in/verify-certificate?id=94it8lB6b31fs93671" target="_blank">Certificate<a/>
 <h2><a href="https://prasanthpraba.tech" target="_blank">Portfolio website</a></h2>
   
 - 🌱 I’m currently learning MERN Stack 
