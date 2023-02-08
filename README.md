@@ -20,6 +20,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthprabakaran&theme=algolia&hide_border=true&stroke=0000&background=060A0CD0" alt="Prasanth's streak status" />
   <a/>
  </p>
+ <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <section/>
 
 <!--
