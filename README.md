@@ -12,13 +12,13 @@
 
 ## &#x1f4c8; GitHub Stats
 <section>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&layout=compact&theme=algolia" alt="Prasanth’ Top Languages Card" /><p/>
+<p><a href="/#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthprabakaran&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Prasanth’ Top Languages Card" /><a/><p/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true" alt="Prasanth’ GitHub Stats" /><p/>
-
+<p>&nbsp;<a href="/#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthprabakaran&theme=algolia&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Prasanth’ GitHub Stats" /><a/><p/>
+<br/>
 <p align='center'>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthprabakaran&theme=algolia" alt="Prasanth's streak status" />
+  <a href="/#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthprabakaran&theme=algolia&hide_border=true&stroke=0000&background=060A0CD0" alt="Prasanth's streak status" />
   <a/>
  </p>
 <section/>
