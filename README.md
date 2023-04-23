@@ -8,7 +8,7 @@ Completed Zen Class Full Stack Developer Program in GUVI GEEKs Network- IIT Madr
   
 - 🌱 I’m currently learning MERN Stack 
   
-- 📫 How to reach me: iprasanthpraba@gmail.com
+- 📫 How to reach me: iprasanthpraba@outlook.com
   
 - ⚡ Fun fact: Science fiction is enlightening
 
