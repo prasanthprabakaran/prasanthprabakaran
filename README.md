@@ -51,6 +51,10 @@ Completed Zen Class Full Stack Developer Program in GUVI GEEKs Network- IIT Madr
 <a href="https://github.com/prasanthprabakaran" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt="Prasanth Prabakaran GitHub" style="margin-bottom: 5px;" />
 </a>
+
+<a href="mailto:iprasanthpraba@outlook.com" target="_blank">
+<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt="Prasanth Prabakaran Outlook" />
+</a>
   
 <div/>
 
